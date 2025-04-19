@@ -1,2 +1,2 @@
-# data_explorers
-This repos will be used for collaborating on Datacy data science projects
+# data_navigator
+The repository for Data Navigator team of Datacy's internship and training.
